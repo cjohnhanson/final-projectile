@@ -1,3 +1,7 @@
+NOTE
+==================
+This project was developed under Elm version 0.15.1 and is not compatible with newer versions
+
 Final Projectile
 ==================
 Final Projectile is a turn-based artillery warfare game in which players take turns firing projectiles at one another.
